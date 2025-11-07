@@ -29,6 +29,7 @@ Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and
 
 # Tabular Column
 
+![WhatsApp Image 2025-11-07 at 10 41 30_854a197f](https://github.com/user-attachments/assets/5bb041c3-0530-4746-b519-535147abd063)
 
 
 # Calculation
